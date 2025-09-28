@@ -1,6 +1,10 @@
 # HackTheBox Challenges Solutions
 
+## 📘 About
+
 This repository contains my solutions to HackTheBox challenges, organized by category. The scripts and write ups are meant for **educational purposes only**.
+
+---
 
 ## 📂 Repository Structure
 
