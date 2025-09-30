@@ -28,6 +28,20 @@ git clone https://github.com/HollowDragonX/htb-challenges.git
 cd htb-challenges
 ```
 
+## [OPTIONAL] Create a virtual environment
+```bash
+python3 -m venv myvenv
+
+# Activate the environment on Windows (CMD)
+myvenv\Scripts\activate.bat
+
+# Activate the environment on Windows (PowerShell)
+myvenv\Scripts\activate.ps1
+
+# Activate the environment on MacOS
+source myvenv/bin/activate
+```
+
 ## 2. Install mkdocs-material
 
 ```bash
