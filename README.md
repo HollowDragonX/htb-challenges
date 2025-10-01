@@ -65,3 +65,7 @@ mkdocs serve -a 0.0.0.0:8000
 ```
 
 Then in the browser visit http://your-local-ip:8000
+
+## Preview using mkdocs-material
+
+<img width="1516" height="1328" alt="image" src="https://github.com/user-attachments/assets/5ed494bd-6842-43b3-8887-c8416ac86423" />
