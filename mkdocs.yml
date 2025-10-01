@@ -5,6 +5,12 @@ theme:
   font:
     text: Jetbrains Mono
     code: Fira Code
+  features:
+    - navigation.footer
+    - navigation.indexes
+    - navigation.path
+    - navigation.sections
+    - navigation.top
   palette:
 
     # Dark mode palette
