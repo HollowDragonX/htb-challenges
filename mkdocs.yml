@@ -6,6 +6,7 @@ theme:
     text: Jetbrains Mono
     code: Fira Code
   features:
+    - content.code.copy
     - navigation.footer
     - navigation.indexes
     - navigation.path
