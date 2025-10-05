@@ -12,6 +12,9 @@ theme:
     - navigation.path
     - navigation.sections
     - navigation.top
+    - search.highlight
+    - search.share
+    - search.suggest
   palette:
 
     # Dark mode palette
@@ -53,6 +56,9 @@ markdown_extensions:
       alternate_style: true
   - pymdownx.tasklist:
       custom_checkbox: true
+
+plugins:
+  - search
 
 extra_javascript:
   - javascripts/mathjax.js
