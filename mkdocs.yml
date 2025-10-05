@@ -57,3 +57,12 @@ markdown_extensions:
 extra_javascript:
   - javascripts/mathjax.js
   - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/HollowDragonX
+    - icon: fontawesome/brands/youtube
+      link: https://www.youtube.com/@hollowdragonx
+    - icon: fontawesome/brands/reddit
+      link: https://www.reddit.com/user/hollowdragonx
