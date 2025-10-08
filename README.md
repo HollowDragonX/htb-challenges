@@ -16,6 +16,14 @@ Each folder correspond to a category of HTB Challenges:
 
 ---
 
+## 🌐 Read them online
+
+If you prefer not to install ``mkdocs-material`` and its dependencies locally to be able to edit the notes, you can just read them online at: 
+
+https://hollowdragonx.github.io/htb-challenges/
+
+---
+
 ## 🚀 Getting Started
 The write-ups were made using `mkdocs-material` for a clean, navigable, and responsive experience, so it is highly recommended to use it for reading them.
 
